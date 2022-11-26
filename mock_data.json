@@ -1,0 +1,7 @@
+{
+  "template": "<h1>Welcome to Printer Server, {{first_name}} {{last_name}}!</h1><h2>Here you'll find a nice way to save your HTML templates as PDF!</h2>",
+  "data": {
+    "first_name": "Samuel",
+    "last_name": "Moron"
+  }
+}
