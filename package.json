@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "printer-server",
   "version": "1.0.0",
   "description": "Create PDFs based on HTML templates",
